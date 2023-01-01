@@ -52,6 +52,5 @@ int searchALL()
 	printf("文本中的字母个数为：%d\n",English);
 	printf("文本中的空格个数为：%d\n",Blank);
 	printf("文本中的数字个数为：%d\n",Number);
-	printf("文本中的总字数为：%d\n",All);
-	return 0;
+	printf();
 }
